@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Streamlit temp file
+temp.pdf
+
+# OS files
+.DS_Store
